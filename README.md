@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taras</h1>
 <h3 align="center">QA Engineer transitioning into Full Stack Development | Combining testing and coding to build better products</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarasveremchuk&label=Profile%20views&color=0e75b6&style=flat" alt="tarasveremchuk" /> </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
