@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Taras</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey%20Everyone&section=header&fontAlign=50" />
+
 <h3 align="center">QA Engineer transitioning into Full Stack Development | Combining testing and coding to build better products</h3>
 
 
